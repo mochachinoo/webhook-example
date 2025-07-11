@@ -12,8 +12,17 @@ See the full [Getting Started Guide](https://buildkite.com/docs/guides/getting-s
 [![Add to Buildkite](https://buildkite.com/button.svg)](https://buildkite.com/new)
 
 <a href="https://buildkite.com/buildkite/starter-pipeline-example/builds/latest?branch=main">
-  <img width="2400" alt="Screenshot of example pipeline build page" src=".buildkite/screenshot.png" />
+  <img width="2400" alt="Screenshot of example pipeline build page" src=".buildkite/screenshot-1.png" />
 </a>
+
+> 📸 **Screenshot 1:** A simple 3-step pipeline in action - building, testing, and deploying your rocket 🚀
+
+<a href="https://buildkite.com/buildkite/starter-pipeline-example/builds/latest?branch=main">
+  <img width="2400" alt="Screenshot of example pipeline build page" src=".buildkite/screenshot-2.png" />
+</a>
+
+> 📸 **Screenshot 2:** The final deploy step adds a success annotation to your build - and yes, you can add GIFs too!
+
 
 <!-- docs:start -->
 ## 🛠 How it works
