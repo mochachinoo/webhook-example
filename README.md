@@ -1,8 +1,17 @@
-# Buildkite Starter Pipeline
+# Buildkite Starter Pipeline Example
+
+[![Build status](https://badge.buildkite.com/f9b46d96710d254e34229ba68bb8797d0b8f1e64ac5abfecb9.svg?branch=main)](https://buildkite.com/buildkite/starter-pipeline-example/builds/latest?branch=main)
+[![Add to Buildkite](https://img.shields.io/badge/Add%20to%20Buildkite-14CC80)](https://buildkite.com/new)
+
+This repository is a friendly starting point for learning how [Buildkite](https://buildkite.com/) pipelines work.
+
+👉 **See this example in action:** [buildkite/starter-pipeline-example](https://buildkite.com/buildkite/starter-pipeline-example/builds/latest?branch=main)
+
+See the full [Getting Started Guide](https://buildkite.com/docs/guides/getting-started) for step-by-step instructions on how to get this running, or try it yourself:
 
 [![Add to Buildkite](https://buildkite.com/button.svg)](https://buildkite.com/new)
 
-This repository is an example [Buildkite](https://buildkite.com/) pipeline to help new users understand how pipelines work.
+
 
 The pipeline is platform agnostic, which means it can run on any infrastructure. Its behavior is defined in [.buildkite/pipeline.yml](.buildkite/pipeline.yml), including steps to build, test, and deploy. These steps describe launching a shiny new rocket to the moon. 🚀🌕
 
