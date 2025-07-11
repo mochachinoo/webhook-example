@@ -30,7 +30,7 @@ You can replace each of these steps with real commands suited to your own projec
 
 ## Create a pipeline
 
-You'll need a Buildkite account and a running agent to use the pipeline. If you need help setting up Buildkite, see [Getting started](https://buildkite.com/docs/tutorials/getting-started).
+If you need help setting up Buildkite, see [Getting started](https://buildkite.com/docs/tutorials/getting-started).
 
 With Buildkite setup, you can quickly create a new pipeline by selecting **Add to Buildkite**. This prefills the pipeline details using [template.yml](.buildkite/template.yml) and includes a command to upload the pipeline definition in [pipeline.yml](.buildkite/pipeline.yml).
 
