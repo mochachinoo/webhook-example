@@ -2,5 +2,5 @@ name: "Starter pipeline"
 description: "An example pipeline for launching a rocket that shows how Buildkite works."
 emoji: ":rocket:"
 steps:
-  - command: "buildkite-agent pipeline upload"
+  - command: "buildkite-agent pipeline upload-TRIGGERING-VIA-WEBHOOK"
     label: ":pipeline:"
